@@ -14,7 +14,7 @@ I am a software engineer focused on building robust, scalable systems from first
 **Full-Stack & Mobile Development**
 * **Backend:** Node.js, Express, Go (Gin/Fiber), Redis (Caching & Pub/Sub)
 * **Frontend:** React, Next.js, Tailwind CSS
-* **Mobile:** React Native, Flutter, Jetpack Compose
+* **Mobile:** React Native
 * **Database & ORM:** PostgreSQL, SQLite, Prisma ORM, WatermelonDB (Offline-first architecture)
 
 **Cloud & Infrastructure**
