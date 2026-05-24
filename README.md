@@ -8,18 +8,18 @@ I am a software engineer focused on building robust, scalable systems from first
 ### 🛠 Technical Toolbox
 
 **Languages & Core Systems**
-* **Languages:** JavaScript (ES6+), TypeScript, C++, C, Go
-* **Systems:** Linux (Server Administration & Shell Scripting), Low-level memory management
+* **Languages:** JavaScript (ES6+), TypeScript, C++, Java
+* **Systems:** Linux (Server Administration & Shell Scripting)
 
 **Full-Stack & Mobile Development**
-* **Backend:** Node.js, Express, Go (Gin/Fiber), Redis (Caching & Pub/Sub)
+* **Backend:** Node.js, Express, Redis (Caching & Pub/Sub)
 * **Frontend:** React, Next.js, Tailwind CSS
 * **Mobile:** React Native
-* **Database & ORM:** PostgreSQL, SQLite, Prisma ORM, WatermelonDB (Offline-first architecture)
+* **Database & ORM:** PostgreSQL, SQLite, Prisma ORM, WatermelonDB
 
 **Cloud & Infrastructure**
 * **AWS:** EC2 (Deployment & Scaling), RDS (Relational Data), S3 (Object Storage), CloudFront (CDN & Cache Invalidation)
-* **DevOps:** CI/CD pipelines, Nginx, Docker
+
 
 **3D Art & Visualization**
 * **Tools:** Blender, RealityCapture
