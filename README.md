@@ -1,31 +1,29 @@
 # Hi, I'm Om Pandey 👋
 
 ### Software Engineer & 3D Environment Artist
-I am a software engineer focused on building robust, scalable systems from first principles. My work sits at the intersection of high-performance backend architecture and photorealistic 3D environment design. I prioritize understanding the underlying mechanics of systems—from the JavaScript event loop to TCP/IP protocols and PBR shading pipelines.
 
+ Hi, this is Om, i am  Software Engineer , Web Developer(mostly inclined towards Backend) and also a 3d Artist who loves using Blender 3d.
 ---
 
-### 🛠 Technical Toolbox
+### 🛠 Here is what i work with
 
 **Languages & Core Systems**
-* **Languages:** JavaScript (ES6+), TypeScript, C++, Java
-* **Systems:** Linux (Server Administration & Shell Scripting)
+* **Languages:** JavaScript (ES6+), TypeScript, C++, Java, C 
+* **Systems:** Linux (though i forget some commands sometime that i just google)
 
 **Full-Stack & Mobile Development**
-* **Backend:** Node.js, Express, Redis (Caching & Pub/Sub)
+* **Backend:** Node.js, Express, Redis 
 * **Frontend:** React, Next.js, Tailwind CSS
 * **Mobile:** React Native
-* **Database & ORM:** PostgreSQL, SQLite, Prisma ORM, WatermelonDB
+* **Database & ORM:** PostgreSQL, SQLite, Prisma ORM
 
 **Cloud & Infrastructure**
-* **AWS:** EC2 (Deployment & Scaling), RDS (Relational Data), S3 (Object Storage), CloudFront (CDN & Cache Invalidation)
+* **AWS:**  EC2 , RDS (Relational Data), S3 (Object Storage), CloudFront (CDN & Cache Invalidation) (I learnt about all these through deploying my own apps )
 
 
 **3D Art & Visualization**
 * **Tools:** Blender, RealityCapture
 * **Specializations:** Photogrammetry, PBR Texturing, Procedural Environment Design, Foliage Generation
-
----
 
 ### 🚀 Key Projects
 
@@ -43,9 +41,5 @@ I am a software engineer focused on building robust, scalable systems from first
 *A high-efficiency terminal-based file management utility.*
 * **Stack:** C++
 * **Focus:** Pattern-based bulk deletion and renaming, utilizing low-level filesystem APIs for maximum throughput.
-
 ---
-
-### 🎨 Creative Philosophy
-As a 3D artist, I focus on the technical side of realism. My work in photogrammetry involves digitizing real-world assets into optimized, PBR-compliant models. I apply the same documentation-first rigor to my environment design as I do to my codebases, ensuring every asset is architecturally sound and performance-optimized.
 
