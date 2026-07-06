@@ -13,6 +13,9 @@ I am a developer who specializes in building scalable backend systems and full-s
 ### 🚀 Product Case Studies
 
 * **[Scoall.in](https://scoall.in)** A production-grade sports management platform featuring real-time ball-by-ball scoring, scalable social feeds, and tournament architecture. *(PERN Stack, Redis)*
+
+ * **[ekam.212labs.in](https://ekam.212labs.in)** Motion-first readin platform, just visit it once you'll appreciate it. *(PERN Stack, Redis, Framer-motion, MDX)*
+  
 * **Sparx (Inspirations)**
   A cross-platform mobile app designed for high-performance idea capture and multi-format reference storage for creators. *(React Native, WatermelonDB)*
 * **F.manage**
